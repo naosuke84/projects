@@ -1,5 +1,5 @@
 #! python3
-# getBridge.py - Prints the status of the bridges.
+# getBridge.py - Prints the status of the bridges in Portland OR.
 # Created by Nelson Hickman
 
 import requests
